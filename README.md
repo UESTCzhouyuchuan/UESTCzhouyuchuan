@@ -1,13 +1,14 @@
-## <center>Hi there 👋,I'm Yuchuan</center>
-### <center> A full-stack developer</center>
-### <center>[Leetcode](https://leetcode-cn.com/u/yuchuanuestc/) </center>
+<h2 align="center"> Hi there 👋,I'm Yuchuan</h2>
+<h3 align="center"> A full-stack developer.</h3>
+<p align="center">
+<a href="https://leetcode-cn.com/u/yuchuanuestc/" target="_blank">Leetcode</a>
+</p>
 
 - 🔭 I’m currently looking for a full-time job.
 - 📫 How to reach me:
-  - zhouyuchuanuestc@163.com
-- 🌱 I’m currently learning react and algorithm.
-- 💬 Ask me about pythonInternetWorm and front-end.
-- 💘 My website: [www.myhoney.club](https://www.myhoney.club/)
+  - 🌱 zhouyuchuanuestc@163.com
+- 💬 Be good at pythonInternetWorm, C++ and front-end.
+- 💘 My website: <a href="https://www.myhoney.club/" target="_blank">www.myhoney.club</a>.
 - ⚡ Fun fact: With programming ability I had became economic independence since the third year of College.
 
 ## Decrypt my wechat id
