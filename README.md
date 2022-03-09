@@ -11,7 +11,7 @@
 - ⚡ Fun fact: With programming ability I had became economic independence since the third year of College.
 
 ## Decrypt my phone wechat id
-```JSON
+```JS
 {
   type: AES
   pattern: CBC
