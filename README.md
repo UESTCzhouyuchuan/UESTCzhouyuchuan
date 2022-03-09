@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there 👋,I'm Yuchuan</h2>
+<h3 align="center"> Hi there 👋,I'm Yuchuan</h3>
 <h3 align="center"> A full-stack developer.</h3>
 <p align="center">
 <a href="https://leetcode-cn.com/u/yuchuanuestc/" target="_blank">Leetcode</a>
