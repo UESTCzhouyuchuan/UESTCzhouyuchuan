@@ -10,7 +10,7 @@
 - 💘 My website: [www.myhoney.club](https://www.myhoney.club/)
 - ⚡ Fun fact: With programming ability I had became economic independence since the third year of College.
 
-## Decrypt my phone wechat id
+## Decrypt my wechat id
 ```JS
 {
   type: AES
