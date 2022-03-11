@@ -4,12 +4,8 @@
 <a href="https://leetcode-cn.com/u/yuchuanuestc/" target="_blank">Leetcode</a>
 </p>
 
-- 🔭 I’m currently looking for a full-time job.
-- 📫 How to reach me:
-  - 🌱 zhouyuchuanuestc@163.com
-- 💬 Be good at pythonInternetWorm, C++ and front-end.
-- 💘 My website: <a href="https://www.myhoney.club/" target="_blank">www.myhoney.club</a>.
-- ⚡ Fun fact: With programming ability I had became economic independence since the third year of College.
+- 💘 I’m currently looking for a full-time job.
+<!-- - ⚡ Fun fact: With programming ability I had became economic independence since the third year of College. -->
 
 ## Decrypt my wechat id
 ```JS
