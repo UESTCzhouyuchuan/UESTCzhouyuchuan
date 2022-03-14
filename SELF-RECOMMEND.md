@@ -39,10 +39,15 @@ website: https://myhoney.club/
 - 平时学的东西比较杂，时间长难免忘记，所以有做笔记的习惯，这两年来也积累了很多，工具一般是`OneNote`
 - 喜欢用程序思维解决生活中的难题，
 - 在网上做过外包，主要写数据爬虫、C++控制台程序、数据结构算法实现以及帮别人改bug，自己又当技术又和客户对需求，比较累但是体会到了赚钱的快乐
+
 <div align="center"> <img src="./咸鱼.jpg" width = 400/> </div>
 
 - 喜欢学习算法，尤其是和数学相关的，尽管比较菜，但leetcode也通过了200+了,https://leetcode-cn.com/u/yuchuanuestc/
+<div align="center"> <img src="./leetcode.png" width = 600 /> </div>
+
 - 平时会逛逛github，特别会留意下比较有创意的项目，比如今年比较火的`TailWindCSS`，前两天还给MDN的开源项目提了一个PR，帮他们修复了一些bug，个人主页 https://github.com/UESTCzhouyuchuan
+
+<div align="center"> <img src="./github.png" width = 400/> </div>
 
 ## 个人缺点
 偏科严重，政治相关的提不起兴趣
