@@ -7,18 +7,5 @@
 - 💘 I’m currently looking for a full-time job.
 <!-- - ⚡ Fun fact: With programming ability I had became economic independence since the third year of College. -->
 
-## Decrypt my wechat id
-```JS
-{
-  type: AES
-  pattern: CBC
-  block-length: 128
-  padding: pkcs7padding
-  password: yuchuan
-  IV: 123456789ABCDEFG
-  out-type: base64
-  in-type: UTF-8
-  cipher-text: X9CTgoIcAp36D6ZYh0rZxw==
-}
-```
-The plain-text is my wechat id
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uestczhouyuchuan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uestczhouyuchuan&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide=python,Assembly,XSLT,Cython,HTML,C,Makefile,Tcl,MATLAB,PowerShell)
